@@ -4,6 +4,17 @@
     margin: 0;
 }
 
+body {
+    margin: 1% 15%;
+}
+
+ul {
+    background: grey;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+}
+
 li {
     color: pink;
 }
